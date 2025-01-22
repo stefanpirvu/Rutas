@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_Rutas"
+        android:icon="@mipmap/ic_menunavegacion_rutas_foreground"
+        android:textSize="24sp"
+        android:title="Rutas" />
+    <item
+        android:id="@+id/item_Home"
+        android:icon="@mipmap/ic_menunavegacion_home_foreground"
+        android:textSize="24sp"
+        android:title="Home" />
+    <item
+        android:id="@+id/item_Salir"
+        android:icon="@mipmap/ic_menunavegacion_salir_foreground"
+        android:textSize="24sp"
+        android:title="Salir" />
+</menu>
